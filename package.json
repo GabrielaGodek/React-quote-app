@@ -1,6 +1,6 @@
 {
-  "name": "quote",
-  "homepage": "http://gabrielagodek.github.io/quote",
+  "name": "react-quote-app",
+  "homepage": "http://gabrielagodek.github.io/react-quote-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

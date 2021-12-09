@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-quote-app/static/css/main.8201c9cf.chunk.css",
-    "main.js": "/react-quote-app/static/js/main.e004cbe2.chunk.js",
-    "main.js.map": "/react-quote-app/static/js/main.e004cbe2.chunk.js.map",
-    "runtime-main.js": "/react-quote-app/static/js/runtime-main.012f64f2.js",
-    "runtime-main.js.map": "/react-quote-app/static/js/runtime-main.012f64f2.js.map",
-    "static/js/2.c1f12444.chunk.js": "/react-quote-app/static/js/2.c1f12444.chunk.js",
-    "static/js/2.c1f12444.chunk.js.map": "/react-quote-app/static/js/2.c1f12444.chunk.js.map",
-    "index.html": "/react-quote-app/index.html",
-    "static/css/main.8201c9cf.chunk.css.map": "/react-quote-app/static/css/main.8201c9cf.chunk.css.map",
-    "static/js/2.c1f12444.chunk.js.LICENSE.txt": "/react-quote-app/static/js/2.c1f12444.chunk.js.LICENSE.txt"
+    "main.css": "/React-quote-app/static/css/main.8201c9cf.chunk.css",
+    "main.js": "/React-quote-app/static/js/main.e004cbe2.chunk.js",
+    "main.js.map": "/React-quote-app/static/js/main.e004cbe2.chunk.js.map",
+    "runtime-main.js": "/React-quote-app/static/js/runtime-main.2da79b6b.js",
+    "runtime-main.js.map": "/React-quote-app/static/js/runtime-main.2da79b6b.js.map",
+    "static/js/2.c1f12444.chunk.js": "/React-quote-app/static/js/2.c1f12444.chunk.js",
+    "static/js/2.c1f12444.chunk.js.map": "/React-quote-app/static/js/2.c1f12444.chunk.js.map",
+    "index.html": "/React-quote-app/index.html",
+    "static/css/main.8201c9cf.chunk.css.map": "/React-quote-app/static/css/main.8201c9cf.chunk.css.map",
+    "static/js/2.c1f12444.chunk.js.LICENSE.txt": "/React-quote-app/static/js/2.c1f12444.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.012f64f2.js",
+    "static/js/runtime-main.2da79b6b.js",
     "static/js/2.c1f12444.chunk.js",
     "static/css/main.8201c9cf.chunk.css",
     "static/js/main.e004cbe2.chunk.js"

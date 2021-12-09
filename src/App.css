@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #ddd1c7;
+}
+.App{
+  border: 3px solid #EAD7C7;
+  border-radius: 20px;
+  width:70vw;
+  height:70vh;
+  margin: 0 auto;
+  background-color: #EAD7C7;
+  color: #157575;
+  text-align: center;
+}
+.quote{
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  padding-top: 25vh;
+}
+.btn{
+  margin-top: 5vh;
+  width:10vw;
+  height:5vh;
+  color: #EAD7C7;
+  background-color: #157575;
+  border-radius:10px;
+}
+.btn:hover{
+  background-color: #EAD7C7;
+  color: #157575;
+  border: 2px solid #157575;
+}
